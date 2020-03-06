@@ -1,0 +1,5 @@
+spring:
+ #datasource:
+ #  url: jdbc:mysql:10.47.44.1:33066/db
+ #  username: user
+ #  password: password
